@@ -6,7 +6,7 @@ code = "Ka.dogra Kha.dogra Ga.dogra Gha.dogra Nga.dogra Ca.dogra Cha.dogra Ja.do
 name = "@allconsonants";
 }
 );
-copyright = "Copyright 2019 Google LLC. All Rights Reserved.";
+copyright = "Copyright 2019-2022 Google LLC. All Rights Reserved.";
 customParameters = (
 {
 name = glyphOrder;
@@ -19702,5 +19702,5 @@ y = 614;
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
