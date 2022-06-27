@@ -223,17 +223,17 @@ name = calt;
 {
 code = "	sub vowelUu.dogra by vowelUu.alt.dogra;\012	sub Dha.dogra by Dha.alt.dogra;\012	sub Ttha.dogra by Ttha.alt.dogra;\012	sub Rra.dogra by Rra.alt.dogra;\012	\012	sub Ttha.alt.dogra matraIi.dogra' by matraIi.alt.dogra;\012	sub matraI.dogra' Ttha.alt.dogra  by matraI.alt.dogra;\012	sub Ttha.alt.dogra matraIiAnusvara.dogra' by matraIiAnusvara.alt.dogra;";
 name = ss01;
-notes = "Name: Alternate formsName: ";
+notes = "Name: Alternate forms";
 },
 {
 code = "	sub vowelAa.dogra by vowelAa.old.dogra;\012	sub vowelI.dogra by vowelI.old1.dogra;\012	sub vowelU.dogra by vowelU.old.dogra;\012	sub vowelUu.dogra by vowelU.old.dogra;\012	sub vowelAi.dogra by vowelAi.old1.dogra;\012	sub vowelO.dogra by vowelO.old.dogra;\012	sub vowelAu.dogra by vowelO.old.dogra;\012	sub Ga.dogra by Ga.old.dogra;\012	sub Gha.dogra by Gha.old.dogra;\012	sub Nga.dogra by Nga.old1.dogra;\012	sub Jha.dogra by Jha.old.dogra;\012	sub Nya.dogra by Nya.old.dogra;\012	sub Ttha.dogra by Ttha.alt.dogra;\012	sub Nna.dogra by Nna.old.dogra;\012	sub Tha.dogra by Tha.old1.dogra;\012	sub Dha.dogra by Dha.old.dogra;\012	sub Ra.dogra by Ra.old.dogra;\012	sub Ba.dogra by Ba.old.dogra;\012	sub Sha.dogra by Sha.old.dogra;\012	sub matraI.dogra by matraI.old.dogra;\012	sub matraI.alt.dogra by matraI.old.dogra;\012	sub matraIi.dogra by matraIi.old.dogra;\012	sub matraIi.alt.dogra by matraIi.old.dogra;\012	sub matraU.dogra by matraU.old.dogra;\012	sub matraUu.dogra by matraUu.old.dogra;\012	sub matraO.dogra by matraO.old.dogra;\012	sub matraAu.dogra by matraAu.old.dogra;\012	sub NnaMatraAa.dogra by Nna.old.dogra matraAa.dogra;\012	sub matraOAnusvara.dogra by matraOAnusvara.old.dogra;\012	sub matraAuAnusvara.dogra by matraAuAnusvara.old.dogra;	\012	sub NuktamatraU.dogra by  NuktamatraU.old.dogra;\012	sub NuktamatraUu.dogra by NuktamatraUu.old.dogra;\012\012	sub matraI.dogra @allconsonants Anusvara.dogra' by Anusvara.alt.dogra;\012	sub matraI.alt.dogra @allconsonants Anusvara.dogra' by Anusvara.alt.dogra;\012	\012	sub matraIiAnusvara.dogra by matraIiAnusvara.old.dogra;	\012	sub matraIiAnusvara.alt.dogra by matraIiAnusvara.old.dogra;	\012	\012	sub Ra.old.dogra matraR.alt.dogra' by matraR.dogra;	\012	sub Ra.old.dogra matraRr.alt.dogra' by matraRr.dogra;	\012	sub Ga.old.dogra matraR.alt.dogra' by matraR.dogra;	\012	sub Ga.old.dogra matraRr.alt.dogra' by matraRr.dogra;\012	sub Nga.old1.dogra matraR.alt.dogra' by matraR.dogra;	\012	sub Nga.old1.dogra matraRr.alt.dogra' by matraRr.dogra;	\012	sub Gha.old.dogra matraAa.dogra' by matraAa.alt.dogra;	\012	sub Ttha.alt.dogra matraIi.dogra' by matraIi.alt.dogra;\012	sub matraI.dogra' Ttha.alt.dogra  by matraI.alt.dogra;\012	\012	sub ShaRa.dogra by Sha.old.dogra Virama.dogra Ra.old.dogra;\012	sub vowelOAnusvara.dogra by vowelO.old.dogra Anusvara.dogra;\012	sub vowelAuAnusvara.dogra by vowelO.old.dogra Anusvara.dogra;";
 name = ss02;
-notes = "Name: Oldstyle forms 1Name: ";
+notes = "Name: Oldstyle forms 1";
 },
 {
 code = " 	sub vowelI.dogra by vowelI.old2.dogra;\012	sub vowelIi.dogra by vowelI.old2.dogra;\012	sub vowelE.dogra by vowelAi.old2.dogra;\012	sub vowelAi.dogra by vowelAi.old2.dogra;\012	sub Nga.dogra by Nga.old2.dogra;\012	sub Tha.dogra by Tha.old2.dogra;";
 name = ss03;
-notes = "Name: Oldstyle forms 2Name: ";
+notes = "Name: Oldstyle forms 2";
 },
 {
 code = "feature ss01;\012feature ss02;\012feature ss03;\012";
