@@ -168,6 +168,10 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
+name = "Disable Last Change";
+value = 1;
+},
+{
 name = description;
 value = "Designed by Ek Type";
 },
@@ -276,7 +280,6 @@ xHeight = 554;
 glyphs = (
 {
 glyphname = .notdef;
-lastChange = "2019-09-10 09:05:57 +0000";
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
@@ -306,7 +309,6 @@ width = 600;
 },
 {
 glyphname = NULL;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
@@ -317,7 +319,6 @@ unicode = 0000;
 },
 {
 glyphname = CR;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
@@ -328,7 +329,6 @@ unicode = 000D;
 },
 {
 glyphname = space;
-lastChange = "2022-06-27 11:45:01 +0000";
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
@@ -339,7 +339,6 @@ unicode = 0020;
 },
 {
 glyphname = vowelA.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -507,7 +506,6 @@ category = Letter;
 },
 {
 glyphname = vowelAa.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -683,7 +681,6 @@ category = Letter;
 },
 {
 glyphname = vowelI.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -797,7 +794,6 @@ category = Letter;
 },
 {
 glyphname = vowelIi.dogra;
-lastChange = "2019-09-07 12:07:46 +0000";
 layers = (
 {
 anchors = (
@@ -979,7 +975,6 @@ category = Letter;
 },
 {
 glyphname = vowelU.dogra;
-lastChange = "2019-09-07 12:07:48 +0000";
 layers = (
 {
 anchors = (
@@ -1089,7 +1084,6 @@ category = Letter;
 },
 {
 glyphname = vowelUu.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -1271,7 +1265,6 @@ category = Letter;
 },
 {
 glyphname = vowelE.dogra;
-lastChange = "2019-09-07 12:07:52 +0000";
 layers = (
 {
 anchors = (
@@ -1403,7 +1396,6 @@ category = Letter;
 },
 {
 glyphname = vowelAi.dogra;
-lastChange = "2019-09-07 12:07:54 +0000";
 layers = (
 {
 anchors = (
@@ -1557,7 +1549,6 @@ category = Letter;
 },
 {
 glyphname = vowelO.dogra;
-lastChange = "2019-09-07 12:07:55 +0000";
 layers = (
 {
 background = {
@@ -1691,7 +1682,6 @@ category = Letter;
 },
 {
 glyphname = vowelAu.dogra;
-lastChange = "2019-09-07 12:08:00 +0000";
 layers = (
 {
 background = {
@@ -1849,7 +1839,6 @@ category = Letter;
 },
 {
 glyphname = Ka.dogra;
-lastChange = "2019-09-07 12:08:02 +0000";
 layers = (
 {
 anchors = (
@@ -2019,7 +2008,6 @@ category = Letter;
 },
 {
 glyphname = Kha.dogra;
-lastChange = "2019-09-07 12:08:03 +0000";
 layers = (
 {
 anchors = (
@@ -2271,7 +2259,6 @@ category = Letter;
 },
 {
 glyphname = Ga.dogra;
-lastChange = "2019-09-07 12:08:04 +0000";
 layers = (
 {
 anchors = (
@@ -2391,7 +2378,6 @@ category = Letter;
 },
 {
 glyphname = Gha.dogra;
-lastChange = "2019-09-07 12:08:06 +0000";
 layers = (
 {
 anchors = (
@@ -2561,7 +2547,6 @@ category = Letter;
 },
 {
 glyphname = Nga.dogra;
-lastChange = "2019-09-07 12:08:08 +0000";
 layers = (
 {
 anchors = (
@@ -2767,7 +2752,6 @@ category = Letter;
 },
 {
 glyphname = Ca.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -2933,7 +2917,6 @@ category = Letter;
 },
 {
 glyphname = Cha.dogra;
-lastChange = "2019-09-07 12:08:12 +0000";
 layers = (
 {
 anchors = (
@@ -3131,7 +3114,6 @@ category = Letter;
 },
 {
 glyphname = Ja.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -3369,7 +3351,6 @@ category = Letter;
 },
 {
 glyphname = Jha.dogra;
-lastChange = "2019-09-07 12:08:16 +0000";
 layers = (
 {
 anchors = (
@@ -3525,7 +3506,6 @@ category = Letter;
 },
 {
 glyphname = Nya.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -3697,7 +3677,6 @@ category = Letter;
 },
 {
 glyphname = Tta.dogra;
-lastChange = "2019-11-22 11:28:28 +0000";
 layers = (
 {
 anchors = (
@@ -3841,7 +3820,6 @@ category = Letter;
 },
 {
 glyphname = Ttha.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -3993,7 +3971,6 @@ category = Letter;
 },
 {
 glyphname = Dda.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -4207,7 +4184,6 @@ category = Letter;
 },
 {
 glyphname = Ddha.dogra;
-lastChange = "2019-09-07 12:08:21 +0000";
 layers = (
 {
 anchors = (
@@ -4435,7 +4411,6 @@ category = Letter;
 },
 {
 glyphname = Nna.dogra;
-lastChange = "2019-09-07 12:08:23 +0000";
 layers = (
 {
 anchors = (
@@ -4603,7 +4578,6 @@ category = Letter;
 },
 {
 glyphname = Ta.dogra;
-lastChange = "2019-09-07 12:08:25 +0000";
 layers = (
 {
 anchors = (
@@ -4747,7 +4721,6 @@ category = Letter;
 },
 {
 glyphname = Tha.dogra;
-lastChange = "2019-09-07 12:08:27 +0000";
 layers = (
 {
 anchors = (
@@ -4953,7 +4926,6 @@ category = Letter;
 },
 {
 glyphname = Da.dogra;
-lastChange = "2019-09-07 12:08:28 +0000";
 layers = (
 {
 anchors = (
@@ -5133,7 +5105,6 @@ category = Letter;
 },
 {
 glyphname = Dha.dogra;
-lastChange = "2019-09-07 12:08:30 +0000";
 layers = (
 {
 anchors = (
@@ -5309,7 +5280,6 @@ category = Letter;
 },
 {
 glyphname = Na.dogra;
-lastChange = "2019-09-07 12:08:32 +0000";
 layers = (
 {
 anchors = (
@@ -5471,7 +5441,6 @@ category = Letter;
 },
 {
 glyphname = Pa.dogra;
-lastChange = "2019-09-07 12:08:33 +0000";
 layers = (
 {
 anchors = (
@@ -5685,7 +5654,6 @@ category = Letter;
 },
 {
 glyphname = Pha.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -5873,7 +5841,6 @@ category = Letter;
 },
 {
 glyphname = Ba.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -6055,7 +6022,6 @@ category = Letter;
 },
 {
 glyphname = Bha.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -6251,7 +6217,6 @@ category = Letter;
 },
 {
 glyphname = Ma.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -6433,7 +6398,6 @@ category = Letter;
 },
 {
 glyphname = Ya.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -6615,7 +6579,6 @@ y = 105;
 },
 {
 glyphname = Ra.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -6737,7 +6700,6 @@ category = Letter;
 },
 {
 glyphname = La.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -6945,7 +6907,6 @@ category = Letter;
 },
 {
 glyphname = Va.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -7117,7 +7078,6 @@ category = Letter;
 },
 {
 glyphname = Sha.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -7315,7 +7275,6 @@ category = Letter;
 },
 {
 glyphname = Ssa.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -7463,7 +7422,6 @@ category = Letter;
 },
 {
 glyphname = Sa.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -7653,7 +7611,6 @@ category = Letter;
 },
 {
 glyphname = Ha.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -7833,7 +7790,6 @@ category = Letter;
 },
 {
 glyphname = Rra.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -8011,7 +7967,6 @@ category = Letter;
 },
 {
 glyphname = matraAa.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 background = {
@@ -8059,7 +8014,6 @@ category = Letter;
 },
 {
 glyphname = matraI.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 background = {
@@ -8141,7 +8095,6 @@ category = Letter;
 },
 {
 glyphname = matraIi.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 background = {
@@ -8235,7 +8188,6 @@ category = Letter;
 },
 {
 glyphname = matraU.dogra;
-lastChange = "2019-11-22 11:27:27 +0000";
 layers = (
 {
 anchors = (
@@ -8328,7 +8280,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraUu.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -8421,7 +8372,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraR.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -8494,7 +8444,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraRr.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -8611,7 +8560,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraE.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -8664,7 +8612,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraAi.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -8749,7 +8696,6 @@ y = 1079;
 },
 {
 glyphname = matraO.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -8816,7 +8762,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraAu.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -8907,7 +8852,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = Anusvara.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -8972,7 +8916,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = Visarga.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 background = {
@@ -9058,7 +9001,6 @@ category = Letter;
 },
 {
 glyphname = Virama.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -9127,7 +9069,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = Nukta.dogra;
-lastChange = "2019-11-19 16:09:18 +0000";
 layers = (
 {
 anchors = (
@@ -9192,7 +9133,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = AbbreviationSign.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 background = {
@@ -9278,7 +9218,6 @@ category = Punctuation;
 },
 {
 glyphname = JaNya.dogra;
-lastChange = "2019-11-20 09:04:12 +0000";
 layers = (
 {
 anchors = (
@@ -9478,7 +9417,6 @@ subCategory = Other;
 },
 {
 glyphname = KaSsa.dogra;
-lastChange = "2019-11-20 09:04:23 +0000";
 layers = (
 {
 anchors = (
@@ -9726,7 +9664,6 @@ subCategory = Other;
 },
 {
 glyphname = TaRa.dogra;
-lastChange = "2019-11-20 10:18:26 +0000";
 layers = (
 {
 anchors = (
@@ -9878,7 +9815,6 @@ width = 546;
 },
 {
 glyphname = ShaRa.dogra;
-lastChange = "2019-11-20 09:04:46 +0000";
 layers = (
 {
 anchors = (
@@ -10104,7 +10040,6 @@ subCategory = Other;
 },
 {
 glyphname = SaTta.dogra;
-lastChange = "2019-11-20 09:04:58 +0000";
 layers = (
 {
 anchors = (
@@ -10306,7 +10241,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelOAnusvara.dogra;
-lastChange = "2019-11-20 09:05:33 +0000";
 layers = (
 {
 background = {
@@ -10474,7 +10408,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelAuAnusvara.dogra;
-lastChange = "2019-11-20 09:05:33 +0000";
 layers = (
 {
 background = {
@@ -10666,7 +10599,6 @@ subCategory = Other;
 },
 {
 glyphname = NnaMatraAa.dogra;
-lastChange = "2019-11-20 09:05:33 +0000";
 layers = (
 {
 anchors = (
@@ -10822,7 +10754,6 @@ subCategory = Other;
 },
 {
 glyphname = VaMatraR.dogra;
-lastChange = "2019-11-20 09:05:33 +0000";
 layers = (
 {
 anchors = (
@@ -10970,7 +10901,6 @@ subCategory = Other;
 },
 {
 glyphname = matraAa.alt.dogra;
-lastChange = "2019-11-20 09:05:33 +0000";
 layers = (
 {
 background = {
@@ -11018,7 +10948,6 @@ subCategory = Other;
 },
 {
 glyphname = matraR.alt.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -11104,7 +11033,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraRr.alt.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -11234,7 +11162,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraI.alt.dogra;
-lastChange = "2019-11-20 09:17:57 +0000";
 layers = (
 {
 background = {
@@ -11296,7 +11223,6 @@ subCategory = Other;
 },
 {
 glyphname = matraIi.alt.dogra;
-lastChange = "2019-11-20 09:17:57 +0000";
 layers = (
 {
 background = {
@@ -11370,7 +11296,6 @@ subCategory = Other;
 },
 {
 glyphname = Anusvara.alt.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -11434,7 +11359,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraIiAnusvara.dogra;
-lastChange = "2019-11-20 09:17:28 +0000";
 layers = (
 {
 background = {
@@ -11562,7 +11486,6 @@ subCategory = Other;
 },
 {
 glyphname = matraIiAnusvara.alt.dogra;
-lastChange = "2019-11-20 09:17:34 +0000";
 layers = (
 {
 background = {
@@ -11670,7 +11593,6 @@ subCategory = Other;
 },
 {
 glyphname = matraOAnusvara.dogra;
-lastChange = "2019-09-14 07:24:46 +0000";
 layers = (
 {
 anchors = (
@@ -11770,7 +11692,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraAuAnusvara.dogra;
-lastChange = "2019-09-14 07:24:57 +0000";
 layers = (
 {
 anchors = (
@@ -11894,7 +11815,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraEAnusvara.dogra;
-lastChange = "2019-09-14 07:25:59 +0000";
 layers = (
 {
 anchors = (
@@ -11980,7 +11900,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraAiAnusvara.dogra;
-lastChange = "2019-09-14 07:25:15 +0000";
 layers = (
 {
 anchors = (
@@ -12098,7 +12017,6 @@ y = 1079;
 },
 {
 glyphname = vowelUu.alt.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -12246,7 +12164,6 @@ subCategory = Other;
 },
 {
 glyphname = Dha.alt.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -12414,7 +12331,6 @@ subCategory = Other;
 },
 {
 glyphname = Ttha.alt.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -12544,7 +12460,6 @@ subCategory = Other;
 },
 {
 glyphname = Rra.alt.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -12710,7 +12625,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelAa.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -12878,7 +12792,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelI.old1.dogra;
-lastChange = "2019-11-20 09:27:23 +0000";
 layers = (
 {
 anchors = (
@@ -13060,7 +12973,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelI.old2.dogra;
-lastChange = "2019-11-20 09:27:21 +0000";
 layers = (
 {
 anchors = (
@@ -13242,7 +13154,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelU.old.dogra;
-lastChange = "2019-11-20 09:26:57 +0000";
 layers = (
 {
 anchors = (
@@ -13356,7 +13267,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelAi.old1.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -13488,7 +13398,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelAi.old2.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -13618,7 +13527,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelO.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -13754,7 +13662,6 @@ subCategory = Other;
 },
 {
 glyphname = Ga.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -13902,7 +13809,6 @@ subCategory = Other;
 },
 {
 glyphname = Jha.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -14062,7 +13968,6 @@ subCategory = Other;
 },
 {
 glyphname = Ra.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -14204,7 +14109,6 @@ subCategory = Other;
 },
 {
 glyphname = Dha.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -14424,7 +14328,6 @@ subCategory = Other;
 },
 {
 glyphname = Gha.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -14670,7 +14573,6 @@ subCategory = Other;
 },
 {
 glyphname = Tha.old1.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -14920,7 +14822,6 @@ subCategory = Other;
 },
 {
 glyphname = Nga.old1.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -15116,7 +15017,6 @@ subCategory = Other;
 },
 {
 glyphname = Nga.old2.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -15278,7 +15178,6 @@ subCategory = Other;
 },
 {
 glyphname = Tha.old2.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -15478,7 +15377,6 @@ y = 105;
 },
 {
 glyphname = Nna.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -15602,7 +15500,6 @@ subCategory = Other;
 },
 {
 glyphname = Nya.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -15808,7 +15705,6 @@ subCategory = Other;
 },
 {
 glyphname = Sha.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -16006,7 +15902,6 @@ subCategory = Other;
 },
 {
 glyphname = Ba.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 anchors = (
@@ -16178,7 +16073,6 @@ subCategory = Other;
 },
 {
 glyphname = matraI.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 background = {
@@ -16240,7 +16134,6 @@ subCategory = Other;
 },
 {
 glyphname = matraIi.old.dogra;
-lastChange = "2019-11-20 09:06:43 +0000";
 layers = (
 {
 background = {
@@ -16302,7 +16195,6 @@ subCategory = Other;
 },
 {
 glyphname = matraU.old.dogra;
-lastChange = "2019-11-22 11:28:10 +0000";
 layers = (
 {
 anchors = (
@@ -16370,7 +16262,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraUu.old.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -16476,7 +16367,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraO.old.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -16570,7 +16460,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraAu.old.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -16728,7 +16617,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraIiAnusvara.old.dogra;
-lastChange = "2019-11-22 12:05:05 +0000";
 layers = (
 {
 background = {
@@ -16824,7 +16712,6 @@ subCategory = Other;
 },
 {
 glyphname = matraOAnusvara.old.dogra;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 anchors = (
@@ -16952,7 +16839,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = matraAuAnusvara.old.dogra;
-lastChange = "2019-11-22 11:45:11 +0000";
 layers = (
 {
 anchors = (
@@ -17144,7 +17030,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = NuktamatraU.dogra;
-lastChange = "2019-11-22 11:45:18 +0000";
 layers = (
 {
 anchors = (
@@ -17212,7 +17097,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = NuktamatraUu.dogra;
-lastChange = "2019-11-22 11:45:20 +0000";
 layers = (
 {
 anchors = (
@@ -17280,7 +17164,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = NuktamatraU.old.dogra;
-lastChange = "2019-11-22 11:45:22 +0000";
 layers = (
 {
 anchors = (
@@ -17336,7 +17219,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = NuktamatraUu.old.dogra;
-lastChange = "2019-11-22 11:45:23 +0000";
 layers = (
 {
 anchors = (
@@ -17411,7 +17293,6 @@ subCategory = Nonspacing;
 },
 {
 glyphname = vowelL.dogra;
-lastChange = "2019-11-20 09:07:45 +0000";
 layers = (
 {
 anchors = (
@@ -17595,7 +17476,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelLl.dogra;
-lastChange = "2019-11-20 09:07:45 +0000";
 layers = (
 {
 anchors = (
@@ -17823,7 +17703,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelR.dogra;
-lastChange = "2019-11-20 09:07:45 +0000";
 layers = (
 {
 anchors = (
@@ -17937,7 +17816,6 @@ subCategory = Other;
 },
 {
 glyphname = vowelRr.dogra;
-lastChange = "2019-11-20 09:07:45 +0000";
 layers = (
 {
 anchors = (
@@ -18077,7 +17955,6 @@ subCategory = Other;
 },
 {
 glyphname = Zero.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 background = {
@@ -18178,7 +18055,6 @@ y = 493;
 },
 {
 glyphname = One.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 background = {
@@ -18266,7 +18142,6 @@ category = Number;
 },
 {
 glyphname = Two.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 background = {
@@ -18361,7 +18236,6 @@ category = Number;
 },
 {
 glyphname = Three.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 background = {
@@ -18480,7 +18354,6 @@ category = Number;
 },
 {
 glyphname = Four.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 background = {
@@ -18601,7 +18474,6 @@ category = Number;
 },
 {
 glyphname = Five.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 background = {
@@ -18680,7 +18552,6 @@ category = Number;
 },
 {
 glyphname = Six.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 background = {
@@ -18823,7 +18694,6 @@ category = Number;
 },
 {
 glyphname = Seven.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 background = {
@@ -18918,7 +18788,6 @@ y = 493;
 },
 {
 glyphname = Eight.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 background = {
@@ -19013,7 +18882,6 @@ y = 493;
 },
 {
 glyphname = Nine.dogra;
-lastChange = "2019-11-20 09:07:56 +0000";
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
@@ -19085,7 +18953,6 @@ category = Number;
 },
 {
 glyphname = Avagraha.dogra;
-lastChange = "2019-11-20 09:08:23 +0000";
 layers = (
 {
 background = {
@@ -19186,7 +19053,6 @@ category = Symbol;
 },
 {
 glyphname = Danda.dv;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 background = {
@@ -19226,7 +19092,6 @@ unicode = 0964;
 },
 {
 glyphname = Doubledanda.dv;
-lastChange = "2019-09-07 12:07:09 +0000";
 layers = (
 {
 background = {
@@ -19288,7 +19153,6 @@ unicode = 0965;
 },
 {
 glyphname = zerowidthnonjoiner;
-lastChange = "2019-09-10 09:09:04 +0000";
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
@@ -19300,7 +19164,6 @@ unicode = 200C;
 },
 {
 glyphname = zerowidthjoiner;
-lastChange = "2019-09-10 09:08:46 +0000";
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
@@ -19312,7 +19175,6 @@ unicode = 200D;
 },
 {
 glyphname = uni25CC;
-lastChange = "2022-06-27 11:43:25 +0000";
 layers = (
 {
 anchors = (
@@ -19891,7 +19753,6 @@ unicode = 25CC;
 },
 {
 glyphname = uni00A0;
-lastChange = "2020-10-26 19:39:23 +0000";
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
