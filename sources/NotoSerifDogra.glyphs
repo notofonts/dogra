@@ -6,7 +6,7 @@ code = "Ka.dogra Kha.dogra Ga.dogra Gha.dogra Nga.dogra Ca.dogra Cha.dogra Ja.do
 name = "@allconsonants";
 }
 );
-copyright = "Copyright 2019-2022 Google LLC. All Rights Reserved.";
+copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/dogra)";
 customParameters = (
 {
 name = glyphOrder;
@@ -186,7 +186,7 @@ value = "Noto is a trademark of Google LLC";
 },
 {
 name = versionString;
-value = "Version 1.004";
+value = "Version 1.005";
 }
 );
 date = "2020-10-29 19:05:51 +0000";
@@ -19706,5 +19706,5 @@ y = 614;
 UFOFormat = 2;
 };
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
