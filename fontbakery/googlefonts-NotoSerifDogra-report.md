@@ -2,13 +2,14 @@
 
 Fontbakery version: 0.8.9
 
-<details><summary><b>[9] NotoSerifDogra-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
+<details><summary><b>[10] NotoSerifDogra-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
 
 
-* 🔥 **FAIL** Missing required codepoints:
+* 💔 **ERROR** Failed with IndexError: list index out of range
+</div></details><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
 
-	- 0x00AF (MACRON)
- [code: missing-codepoints]
+
+* 🔥 **FAIL** Version number 1.0050048828125 is equal to version on Google Fonts GitHub repo.
 </div></details><details><summary>🔥 <b>FAIL:</b> Checking OS/2 usWinAscent & usWinDescent. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/family/win_ascent_and_descent">com.google.fonts/check/family/win_ascent_and_descent</a>)</summary><div>
 
 
@@ -27,25 +28,25 @@ Fontbakery version: 0.8.9
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- Five.dogra
+	- uni00A0.1
 
-	- vowelRr.dogra
+	- Four.dogra
 
-	- vowelLl.dogra
+	- Six.dogra
 
-	- Two.dogra
+	- Seven.dogra
 
 	- Avagraha.dogra
 
-	- One.dogra
-
 	- Nine.dogra
 
-	- vowelL.dogra
+	- Two.dogra
 
-	- uni00A0.1
+	- Three.dogra
 
-	- Eight.dogra 
+	- vowelLl.dogra
+
+	- vowelL.dogra 
 
 	- And 6 more.
 
@@ -118,7 +119,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-misalig
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 3 | 6 | 115 | 8 | 103 | 0 |
+| 1 | 3 | 6 | 114 | 7 | 104 | 0 |
 | 0% | 1% | 3% | 49% | 3% | 44% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
