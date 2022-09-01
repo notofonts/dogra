@@ -6,5 +6,9 @@ googleFonts: true
 includeSubsets:
 - from: Noto Serif
   name: GF_Latin_Core
+- from: Noto Serif Devanagari
+  ranges:
+      - start: 0x93D
+        end: 0x93D
 sources:
 - NotoSerifDogra.glyphs
