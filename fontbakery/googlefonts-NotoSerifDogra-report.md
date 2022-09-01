@@ -1,12 +1,8 @@
 ## Fontbakery report
 
-Fontbakery version: 0.8.9
+Fontbakery version: 0.8.10
 
-<details><summary><b>[10] NotoSerifDogra-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check Google Fonts glyph coverage. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/glyph_coverage">com.google.fonts/check/glyph_coverage</a>)</summary><div>
-
-
-* 💔 **ERROR** Failed with IndexError: list index out of range
-</div></details><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
+<details><summary><b>[8] NotoSerifDogra-Regular.ttf</b></summary><div><details><summary>🔥 <b>FAIL:</b> Version number has increased since previous release on Google Fonts? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/googlefonts.html#com.google.fonts/check/version_bump">com.google.fonts/check/version_bump</a>)</summary><div>
 
 
 * 🔥 **FAIL** Version number 1.0050048828125 is equal to version on Google Fonts GitHub repo.
@@ -15,7 +11,7 @@ Fontbakery version: 0.8.9
 
 * 🔥 **FAIL** OS/2.usWinAscent value should be equal or greater than 1214, but got 1130 instead [code: ascent]
 * 🔥 **FAIL** OS/2.usWinDescent value should be equal or greater than 445, but got 364 instead. [code: descent]
-</div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/hmtx.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
+</div></details><details><summary>🔥 <b>FAIL:</b> Space and non-breaking space have the same width? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/universal.html#com.google.fonts/check/whitespace_widths">com.google.fonts/check/whitespace_widths</a>)</summary><div>
 
 
 * 🔥 **FAIL** Space and non-breaking space have differing width: The space glyph named space is 240 font units wide, non-breaking space named (uni00A0) is 260 font units wide, and both should be positive and the same. GlyphsApp has "Sidebearing arithmetic" (https://glyphsapp.com/tutorials/spacing) which allows you to set the non-breaking space width to always equal the space width. [code: different-widths]
@@ -28,25 +24,25 @@ Fontbakery version: 0.8.9
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
 
-	- uni00A0.1
+	- Avagraha.dogra
+
+	- Eight.dogra
+
+	- Five.dogra
 
 	- Four.dogra
 
-	- Six.dogra
+	- Nine.dogra
+
+	- One.dogra
 
 	- Seven.dogra
 
-	- Avagraha.dogra
-
-	- Nine.dogra
-
-	- Two.dogra
+	- Six.dogra
 
 	- Three.dogra
 
-	- vowelLl.dogra
-
-	- vowelL.dogra 
+	- Two.dogra 
 
 	- And 6 more.
 
@@ -71,13 +67,6 @@ The following glyphs do not have the recommended number of contours:
 
 	- And Glyph name: uogonek	Contours detected: 2	Expected: 1
  [code: contour-count]
-</div></details><details><summary>⚠ <b>WARN:</b> Check mark characters are in GDEF mark glyph class. (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/gdef.html#com.google.fonts/check/gdef_mark_chars">com.google.fonts/check/gdef_mark_chars</a>)</summary><div>
-
-
-* ⚠ **WARN** The following mark characters could be in the GDEF mark glyph class:
-	 acutecomb (U+0301), gravecomb (U+0300), tildecomb (U+0303), uni0302 (U+0302), uni0304 (U+0304), uni0306 (U+0306), uni0307 (U+0307), uni0308 (U+0308), uni030A (U+030A), uni030B (U+030B) and 5 more.
-
-Use -F or --full-lists to disable shortening of long lists. [code: mark-chars]
 </div></details><details><summary>⚠ <b>WARN:</b> Are there any misaligned on-curve points? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_alignment_miss">com.google.fonts/check/outline_alignment_miss</a>)</summary><div>
 
 
@@ -103,7 +92,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: mark-chars]
 
 	* W (U+0057): X=201.0,Y=624.0 (should be at cap-height 625?) 
 
-	* And 47 more.
+	* And 49 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-misalignments]
 </div></details><details><summary>⚠ <b>WARN:</b> Do any segments have colinear vectors? (<a href="https://font-bakery.readthedocs.io/en/stable/fontbakery/profiles/<Section: Outline Correctness Checks>.html#com.google.fonts/check/outline_colinear_vectors">com.google.fonts/check/outline_colinear_vectors</a>)</summary><div>
@@ -119,8 +108,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-misalig
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 1 | 3 | 6 | 114 | 7 | 104 | 0 |
-| 0% | 1% | 3% | 49% | 3% | 44% | 0% |
+| 0 | 3 | 5 | 111 | 7 | 101 | 0 |
+| 0% | 1% | 2% | 49% | 3% | 44% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
