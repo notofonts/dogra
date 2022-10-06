@@ -1,0 +1,9 @@
+{
+    "tests": [
+        {
+            "input": "𑠊𑠹𑠨𑠭 𑠙𑠹𑠤𑠭 𑠑𑠹𑠓𑠭 𑠩𑠹𑠔𑠭 𑠧𑠹𑠤𑠭",
+            "expectation": "matraI.alt.dogra=0+284|KaSsa.dogra=0+563|space=4+240|matraI.dogra=5+284|TaRa.dogra=5+546|space=9+240|matraI.dogra=10+284|JaNya.dogra=10+774|space=14+240|matraI.dogra=15+284|SaTta.dogra=15+601|space=19+240|matraI.dogra=20+284|ShaRa.dogra=20+822",
+            "note": "#9"
+        }
+    ]
+}
