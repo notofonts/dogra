@@ -1,5 +1,5 @@
 {
-.appVersion = "3072";
+.appVersion = "3109";
 DisplayStrings = (
 "/space"
 );
@@ -217,8 +217,24 @@ name = ReorderAnusvara2;
 );
 features = (
 {
-code = "lookup akhn {\012	sub Ka.dogra Virama.dogra Ssa.dogra by KaSsa.dogra;\012	sub Ja.dogra Virama.dogra Nya.dogra by JaNya.dogra;\012	sub Sa.dogra Virama.dogra Tta.dogra by SaTta.dogra;\012	sub Nna.dogra matraAa.dogra by NnaMatraAa.dogra;\012}akhn;\012\012lookup pres {	\012	sub matraI.dogra' [Kha.dogra Nga.dogra Nna.dogra Pa.dogra Ma.dogra KaSsa.dogra Gha.old.dogra Nga.old2.dogra Ttha.alt.dogra] by matraI.alt.dogra;\012}pres;\012\012lookup psts1 {\012	sub matraIi.dogra Anusvara.dogra by matraIiAnusvara.dogra;\012}psts1;\012\012lookup psts2 {	\012	sub [Kha.dogra Pa.dogra Ma.dogra KaSsa.dogra Gha.old.dogra] matraAa.dogra' by matraAa.alt.dogra;	\012	sub [Kha.dogra Nga.dogra Nna.dogra Pa.dogra Ma.dogra KaSsa.dogra Gha.old.dogra Nga.old2.dogra Ttha.alt.dogra] matraIi.dogra' by matraIi.alt.dogra;\012	sub [Kha.dogra Nga.dogra Nna.dogra Pa.dogra Ma.dogra KaSsa.dogra Gha.old.dogra Nga.old2.dogra Ttha.alt.dogra] matraIiAnusvara.dogra' by matraIiAnusvara.alt.dogra;\012}psts2;\012\012lookup abvs1 {	\012	sub matraE.dogra Anusvara.dogra by matraEAnusvara.dogra;\012	sub matraAi.dogra Anusvara.dogra by matraAiAnusvara.dogra;\012	sub matraO.dogra Anusvara.dogra by matraOAnusvara.dogra;\012	sub matraAu.dogra Anusvara.dogra by matraAuAnusvara.dogra;\012	sub vowelO.dogra Anusvara.dogra by vowelOAnusvara.dogra;\012	sub vowelAu.dogra Anusvara.dogra by vowelAuAnusvara.dogra;\012}abvs1;\012\012lookup abvs2 {	\012	sub matraAa.dogra' lookup ReorderAnusvara1 Anusvara.dogra' lookup ReorderAnusvara1;	\012	sub matraAa.alt.dogra' lookup ReorderAnusvara2 Anusvara.dogra' lookup ReorderAnusvara2;	\012}abvs2;\012\012lookup abvs3 {	\012	sub matraI.dogra @allconsonants Anusvara.dogra' by Anusvara.alt.dogra;\012	sub matraI.alt.dogra @allconsonants Anusvara.dogra' by Anusvara.alt.dogra;\012}abvs3;\012\012lookup blws1 {	\012	sub [Kha.dogra Cha.dogra Ja.dogra Nya.dogra Nya.old.dogra Na.dogra Pa.dogra Ma.dogra La.dogra Ba.dogra Sa.dogra Dha.old.dogra Gha.old.dogra Tha.old1.dogra Ga.dogra Gha.dogra Tha.dogra Dha.dogra Ya.dogra Sha.dogra Ssa.dogra Ra.dogra ShaRa.dogra] matraR.dogra' by matraR.alt.dogra;\012	sub [Kha.dogra Cha.dogra Ja.dogra Nya.dogra Nya.old.dogra Na.dogra Pa.dogra Ma.dogra La.dogra Va.dogra Ba.dogra Sa.dogra Dha.old.dogra Gha.old.dogra Tha.old1.dogra Ga.dogra Gha.dogra Tha.dogra Dha.dogra Ya.dogra Sha.dogra Ssa.dogra Ra.dogra ShaRa.dogra] matraRr.dogra' by matraRr.alt.dogra;\012}blws1;\012\012lookup blws2 {	\012	sub Va.dogra matraR.dogra by VaMatraR.dogra;	\012	sub Nukta.dogra matraU.dogra by NuktamatraU.dogra;\012	sub Nukta.dogra matraUu.dogra by NuktamatraUu.dogra;\012}blws2;";
-name = calt;
+code = "lookup akhn {\012	sub Ka.dogra Virama.dogra Ssa.dogra by KaSsa.dogra;\012	sub Ja.dogra Virama.dogra Nya.dogra by JaNya.dogra;\012	sub Sa.dogra Virama.dogra Tta.dogra by SaTta.dogra;\012	sub Nna.dogra matraAa.dogra by NnaMatraAa.dogra;\012}akhn;";
+name = akhn;
+},
+{
+code = "\012\012lookup pres {	\012	sub matraI.dogra' [Kha.dogra Nga.dogra Nna.dogra Pa.dogra Ma.dogra KaSsa.dogra Gha.old.dogra Nga.old2.dogra Ttha.alt.dogra] by matraI.alt.dogra;\012}pres;\012";
+name = pres;
+},
+{
+code = "\012lookup psts1 {\012	sub matraIi.dogra Anusvara.dogra by matraIiAnusvara.dogra;\012}psts1;\012\012lookup psts2 {	\012	sub [Kha.dogra Pa.dogra Ma.dogra KaSsa.dogra Gha.old.dogra] matraAa.dogra' by matraAa.alt.dogra;	\012	sub [Kha.dogra Nga.dogra Nna.dogra Pa.dogra Ma.dogra KaSsa.dogra Gha.old.dogra Nga.old2.dogra Ttha.alt.dogra] matraIi.dogra' by matraIi.alt.dogra;\012	sub [Kha.dogra Nga.dogra Nna.dogra Pa.dogra Ma.dogra KaSsa.dogra Gha.old.dogra Nga.old2.dogra Ttha.alt.dogra] matraIiAnusvara.dogra' by matraIiAnusvara.alt.dogra;\012}psts2;\012";
+name = psts;
+},
+{
+code = "\012lookup abvs1 {	\012	sub matraE.dogra Anusvara.dogra by matraEAnusvara.dogra;\012	sub matraAi.dogra Anusvara.dogra by matraAiAnusvara.dogra;\012	sub matraO.dogra Anusvara.dogra by matraOAnusvara.dogra;\012	sub matraAu.dogra Anusvara.dogra by matraAuAnusvara.dogra;\012	sub vowelO.dogra Anusvara.dogra by vowelOAnusvara.dogra;\012	sub vowelAu.dogra Anusvara.dogra by vowelAuAnusvara.dogra;\012}abvs1;\012\012lookup abvs2 {	\012	sub matraAa.dogra' lookup ReorderAnusvara1 Anusvara.dogra' lookup ReorderAnusvara1;	\012	sub matraAa.alt.dogra' lookup ReorderAnusvara2 Anusvara.dogra' lookup ReorderAnusvara2;	\012}abvs2;\012\012lookup abvs3 {	\012	sub matraI.dogra @allconsonants Anusvara.dogra' by Anusvara.alt.dogra;\012	sub matraI.alt.dogra @allconsonants Anusvara.dogra' by Anusvara.alt.dogra;\012}abvs3;\012";
+name = abvs;
+},
+{
+code = "\012lookup blws1 {	\012	sub [Kha.dogra Cha.dogra Ja.dogra Nya.dogra Nya.old.dogra Na.dogra Pa.dogra Ma.dogra La.dogra Ba.dogra Sa.dogra Dha.old.dogra Gha.old.dogra Tha.old1.dogra Ga.dogra Gha.dogra Tha.dogra Dha.dogra Ya.dogra Sha.dogra Ssa.dogra Ra.dogra ShaRa.dogra] matraR.dogra' by matraR.alt.dogra;\012	sub [Kha.dogra Cha.dogra Ja.dogra Nya.dogra Nya.old.dogra Na.dogra Pa.dogra Ma.dogra La.dogra Va.dogra Ba.dogra Sa.dogra Dha.old.dogra Gha.old.dogra Tha.old1.dogra Ga.dogra Gha.dogra Tha.dogra Dha.dogra Ya.dogra Sha.dogra Ssa.dogra Ra.dogra ShaRa.dogra] matraRr.dogra' by matraRr.alt.dogra;\012}blws1;\012\012lookup blws2 {	\012	sub Va.dogra matraR.dogra by VaMatraR.dogra;	\012	sub Nukta.dogra matraU.dogra by NuktamatraU.dogra;\012	sub Nukta.dogra matraUu.dogra by NuktamatraUu.dogra;\012}blws2;\012";
+name = blws;
 },
 {
 code = "	sub vowelUu.dogra by vowelUu.alt.dogra;\012	sub Dha.dogra by Dha.alt.dogra;\012	sub Ttha.dogra by Ttha.alt.dogra;\012	sub Rra.dogra by Rra.alt.dogra;\012	\012	sub Ttha.alt.dogra matraIi.dogra' by matraIi.alt.dogra;\012	sub matraI.dogra' Ttha.alt.dogra  by matraI.alt.dogra;\012	sub Ttha.alt.dogra matraIiAnusvara.dogra' by matraIiAnusvara.alt.dogra;";
