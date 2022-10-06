@@ -279,6 +279,14 @@ value = 50;
 {
 name = underlinePosition;
 value = -100;
+},
+{
+name = winAscent;
+value = 1214;
+},
+{
+name = winDescent;
+value = 445;
 }
 );
 descender = -364;
@@ -348,7 +356,7 @@ glyphname = space;
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
-width = 240;
+width = 260;
 }
 );
 unicode = 0020;
