@@ -19823,7 +19823,7 @@ Nga.dogra = {
 matraAa.alt.dogra = 0;
 };
 Nga.old1.dogra = {
-matraAa.dogra = 30;
+matraAa.dogra = -30;
 };
 Nine.dogra = {
 Zero.dogra = -40;
