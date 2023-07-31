@@ -1,14 +1,10 @@
 buildVariable: false
 category:
-- SERIF
+  - SERIF
 familyName: Noto Serif Dogra
 googleFonts: true
 includeSubsets:
-- from: Noto Serif
-  name: GF_Latin_Core
-- from: Noto Serif Devanagari
-  ranges:
-      - start: 0x93D
-        end: 0x93D
+  - from: Noto Serif
+    name: GF_Latin_Core
 sources:
-- NotoSerifDogra.glyphs
+  - NotoSerifDogra.glyphs
