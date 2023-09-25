@@ -1,5 +1,5 @@
 {
-.appVersion = "3202";
+.appVersion = "3205";
 DisplayStrings = (
 "/space"
 );
@@ -360,7 +360,7 @@ glyphname = space;
 layers = (
 {
 layerId = "284FCB4C-24BB-4F0E-B388-CD6C9D45C343";
-width = 260;
+width = 240;
 }
 );
 unicode = 0020;
