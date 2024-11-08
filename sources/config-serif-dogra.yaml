@@ -1,10 +1,11 @@
 buildVariable: false
 category:
-  - SERIF
+- SERIF
 familyName: Noto Serif Dogra
 googleFonts: true
 includeSubsets:
-  - from: Noto Serif
-    name: GF_Latin_Core
+- from: Noto Serif
+  name: GF_Latin_Core
+recipeProvider: noto
 sources:
-  - NotoSerifDogra.glyphs
+- NotoSerifDogra.glyphs
